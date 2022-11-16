@@ -1,0 +1,33 @@
+.color {
+  background-color: hsl(153, 66%, 47%);
+  border-bottom: 1px solid hsl(153, 66%, 47%);
+  padding: 10px;
+  color: aliceblue;
+  display: flex;
+}
+body {
+  background-color: hsl(153, 66%, 47%);
+}
+
+.cols {
+  text-align: center;
+  padding-top: 20%;
+}
+button {
+  background-color: hsl(153, 66%, 47%);
+  color: aliceblue;
+  padding: 5px 0px;
+  width: 20%;
+}
+
+.col {
+  text-align: center;
+}
+
+span {
+  text-align: center;
+}
+.coll {
+  width: 200px;
+  height: 50px;
+}
